@@ -4,7 +4,7 @@
 
 Karpathy's Llm wiki
 Awesome
-Gave much more than Alex did
+Gave quite a lot that Alex didnt
 Quite abstract. I need more details. 
 
 - Abby Covert – How to Make Sense of Any Mess
