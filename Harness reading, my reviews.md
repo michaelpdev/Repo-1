@@ -1,3 +1,8 @@
+2026-09-26
+
+Claude Obsidian
+Studying. Looks awesome
+
 
 
 2026-09-25
