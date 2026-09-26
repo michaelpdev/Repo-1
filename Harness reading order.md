@@ -3,7 +3,7 @@ type: reading guide
 created: 2026-09-25
 updated: 2026-09-26
 status: proposed learning route; not an implementation commitment
-reliability: AI-selected sequence and approximate study levels; source limitations remain in Harness research
+reliability: "AI-selected sequence and approximate study levels; source limitations remain in Harness research; development models: Astra (Mid), GPT-5.6 Sol (High)"
 ---
 
 # Harness reading order

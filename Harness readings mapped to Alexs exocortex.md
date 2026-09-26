@@ -3,7 +3,7 @@ type: comparison
 created: 2026-09-25
 updated: 2026-09-26
 status: detailed conceptual mapping; not an implementation commitment
-reliability: AI interpretation of the linked local notes and selected reading descriptions; compatibility and implementation are not established
+reliability: "AI interpretation of the linked local notes and selected reading descriptions; compatibility and implementation are not established; model: GPT-5.6 Sol; reasoning: High"
 ---
 
 # Harness readings mapped to Alexs exocortex
