@@ -1,4 +1,15 @@
 
+### The core idea
+
+Show my harness
+Show the system of showing your harness to other builders, short but dense.
+Show my strategy of development further.
+And a bit about soft skills and PM.
+
+You can see the headers below as the main points I want to share about.
+
+The whole thing is pretty flexible. I'm open to detail or make it more narrow, etc. Let me know.
+
 ### Presentation my harness
 
 - Core parts: data architecture, data layers, provenance, wiki, memory, permissions, skills, instructions, pm system, etc. What else? 
