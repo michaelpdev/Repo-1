@@ -10,7 +10,7 @@ You can see the headers below as the main points I want to share about.
 
 The whole thing is pretty flexible. I'm open to detail or make it more narrow, etc. Let me know.
 
-### Presentation my harness
+### Presentation of my harness
 
 - Core parts: data architecture, data layers, provenance, wiki, memory, permissions, skills, instructions, pm system, etc. What else? 
 - What part of the harness is developed enough so it's interesting for others, or what can be developed in the next 2 weeks, or how much I have till the meetup? 
